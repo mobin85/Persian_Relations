@@ -1,0 +1,4 @@
+aiofiles
+httpx
+beautifulsoup4
+khayyam
